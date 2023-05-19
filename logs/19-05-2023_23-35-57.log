@@ -1,0 +1,13 @@
+
+-----
+Test: tests/test_text_box_page.py::TestTextBoxPage::TestTextBox::test_input_and_output_data (call)
+Start time: 2023-05-19 23:36:02.729545
+Start name method: comparison_of_input_and_output_data
+
+Next method: fill_all_fields
+Next method: check_filled_form
+End time: 2023-05-19 23:36:03.867955
+End name method: comparison_of_input_and_output_data
+URL: https://demoqa.com/text-box
+
+-----
