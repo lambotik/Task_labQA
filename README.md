@@ -14,8 +14,8 @@
 
 
 
-- 1.Open command line (Win+R)
-- 2.For check python version at the command line type : ```python --version```
+- 1.Открыть командную строку: нажать ```Win+R``` ввести в ```/cmd``` и нажать ```OK```
+- 2.Для проверки установлен ли Python на вашем компьютере, ввести в командную строку ```python --version``` и нажать ENTER
 - 3.If python is not installed: https://www.python.org/downloads/
 - 4.After installed python
 - 5.Copy this line in command line and press enter: 
