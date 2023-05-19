@@ -14,13 +14,12 @@
 
 
 
-- 1.Открыть командную строку: нажать ```Win+R``` ввести в ```/cmd``` и нажать ```OK```
-- 2.Для проверки установлен ли Python на вашем компьютере, ввести в командную строку ```python --version``` и нажать ENTER
-- 3.If python is not installed: https://www.python.org/downloads/
-- 4.After installed python
-- 5.Copy this line in command line and press enter: 
-```https://github.com/lambotik/Task_labQA.git```
-- 6.At the command line, type: ```cd Task_labQA```
-- 7.At the command line, type: ```pip3 install -r requirements.txt```
-- 8.At the command line, type: ```pytest --alluredir=test_result/ tests/```
-- 9.At the command line, type: ```allure serve test_result```
+- 1.Открыть командную строку (нажать сочетание клавиш ```Win+R```) ввести в появившемся окне ```/cmd``` и нажать ```OK```
+- 2.Для проверки установлен ли Python на вашем компьютере, ввести в командную строку ```python --version``` и нажать ```ENTER```
+- 3.Если Python не установлен, то переходим по ссылке: https://www.python.org/downloads/ и устанавливаем подходящую версию.
+- 4.После установки или если Python уже установлен на ваш компьютер:
+- 5.Скопируйте ```https://github.com/lambotik/Task_labQA.git``` в командную строку и нажмите ```ENTER```
+- 6.Скопируйте ```cd Task_labQA``` в командную строку и нажмите ```ENTER```
+- 7.Скопируйте ```pip3 install -r requirements.txt``` в командную строку и нажмите ```ENTER```
+- 8.Скопируйте ```pytest --alluredir=test_result/ tests/``` в командную строку и нажмите ```ENTER```
+- 9.Скопируйте ```allure serve test_result``` в командную строку и нажмите ```ENTER```
