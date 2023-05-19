@@ -26,9 +26,9 @@ class TextBoxPage(BasePage):
             self.element_is_visible(self.locators.EMAIL).send_keys(email)
             print(f'Entered Email: {email}')
             self.element_is_visible(self.locators.CURRENT_ADDRESS).send_keys(current_address)
-            print(f'Entered Current address: {full_name}')
+            print(f'Entered Current address: {current_address}')
             self.element_is_visible(self.locators.PERMANENT_ADDRESS).send_keys(permanent_address)
-            print(f'Entered Permanent address: {full_name}')
+            print(f'Entered Permanent address: {permanent_address}')
         with allure.step('Click submit button'):
             self.element_is_visible(self.locators.SUBMIT).click()
             print(f'Pressed button: Submit')
