@@ -50,8 +50,8 @@ class TextBoxPage(BasePage):
         Logger.add_start_step(method='comparison_of_input_and_output_data')
         full_name, email, current_address, permanent_address = self.fill_all_fields()
         Logger.add_step(method='fill_all_fields')
-        Logger.add_step(method='check_filled_form')
         output_full_name, output_email, output_current_address, output_permanent_address = self.check_filled_form()
+        Logger.add_step(method='check_filled_form')
         Logger.add_end_step(url=self.driver.current_url, method='comparison_of_input_and_output_data')
         return full_name, email, current_address, permanent_address, \
             output_full_name, output_email, output_current_address, output_permanent_address
