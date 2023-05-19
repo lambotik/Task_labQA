@@ -18,7 +18,7 @@
 - 2.Для проверки установлен ли Python на вашем компьютере, ввести в командную строку ```python --version``` и нажать ```ENTER```
 - 3.Если Python не установлен, то переходим по ссылке: https://www.python.org/downloads/ и устанавливаем подходящую версию.
 - 4.После установки или, если Python уже установлен на ваш компьютер:
-- 5.Скопируйте ```https://github.com/lambotik/Task_labQA.git``` в командную строку и нажмите ```ENTER```
+- 5.Скопируйте ``` git clone https://github.com/lambotik/Task_labQA.git``` в командную строку и нажмите ```ENTER```
 - 6.Скопируйте ```cd Task_labQA``` в командную строку и нажмите ```ENTER```
 - 7.Скопируйте ```pip3 install -r requirements.txt``` в командную строку и нажмите ```ENTER```
 - 8.Скопируйте ```pytest --alluredir=test_result/ tests/``` в командную строку и нажмите ```ENTER```
