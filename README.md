@@ -10,6 +10,9 @@
 - Фремйворк закинуть в репозиторий и дать ссылку.
 
 
+## Для запуска
+
+
 
 - 1.Open command line (Win+R)
 - 2.For check python version at the command line type : ```python --version```
