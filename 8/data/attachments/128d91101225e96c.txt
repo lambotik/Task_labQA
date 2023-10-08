@@ -1,0 +1,10 @@
+Entered Full name: Велимир Бирюков Алексеевич
+Entered Email: bespalovnestor@example.net
+Entered Current address: п. Горно-Алтайск, пр. Раздольный, д. 7 стр. 4/8, 531266
+Entered Permanent address: п. Костомукша, наб. Павлова, д. 8 стр. 8/8, 090294
+Pressed button: Submit
+Created Full name: Велимир Бирюков Алексеевич
+Created Email: bespalovnestor@example.net
+Created Current address: п. Горно-Алтайск, пр. Раздольный, д. 7 стр. 4/8, 531266
+Created Permanent address: п. Костомукша, наб. Павлова, д. 8 стр. 8/8, 090294
+Test Finish: 08-10-2023 08:22:11
